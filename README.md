@@ -1,8 +1,8 @@
 ## Hello! I'm Ronald Santos
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ronaldsantos63)
-[<img src="https://img.shields.io/github/followers/rsantos13?label=follow&style=social" height="22" title="Follow me" />](https://github.com/rsantos13) 
-[<img src="https://img.shields.io/github/followers/ronaldsantos63?label=follow&style=social" height="22" title="Follow me" />](https://github.com/ronaldsantos63) 
+[<img src="https://img.shields.io/github/followers/rsantos13?label=follow&style=social" height="22" title="My new Account" />](https://github.com/rsantos13) 
+[<img src="https://img.shields.io/github/followers/ronaldsantos63?label=follow&style=social" height="22" title="My old account" />](https://github.com/ronaldsantos63) 
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/ronaldf.dossantos)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ronaldsantos63@gmail.com)
 
